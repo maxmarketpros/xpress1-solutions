@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xpress1solutionsma.com/sitemap-index.xml
